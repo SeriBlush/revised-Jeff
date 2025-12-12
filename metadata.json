@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of Mr. Jeff",
+  "description": "A sketch-style conversational journal with voice interaction, memory, and tutor mode.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
